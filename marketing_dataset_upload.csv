@@ -1,0 +1,301 @@
+Customer_ID,Age,Gender,Channel,Budget_Spent,Clicks,Conversions,Email_Open_Rate,Customer_Review
+CUST_0001,20,Female,Facebook Ads,761,499,0,0.94,"Tidak puas, barang rusak saat diterima."
+CUST_0002,46,Male,Instagram Ads,286,32,0,0.25,"Tidak puas, barang rusak saat diterima."
+CUST_0003,52,Male,Facebook Ads,586,109,1,0.67,Harga cukup mahal dibanding kompetitor.
+CUST_0004,56,Male,Instagram Ads,926,218,1,0.88,Harga sepadan dengan kualitas yang didapat.
+CUST_0005,35,Male,Google Ads,157,409,0,0.07,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0006,37,Female,Email,717,9,0,0.77,Layanan purna jual kurang responsif.
+CUST_0007,40,Female,Email,137,113,0,0.13,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0008,51,Male,Google Ads,67,181,0,0.87,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0009,50,Female,Facebook Ads,106,484,0,0.6,"Produk sangat bagus, saya puas sekali!"
+CUST_0010,27,Male,Instagram Ads,915,256,1,0.2,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0011,50,Female,Instagram Ads,731,389,1,0.09,"Tidak puas, barang rusak saat diterima."
+CUST_0012,50,Male,Email,884,452,0,0.8,Harga sepadan dengan kualitas yang didapat.
+CUST_0013,43,Female,Email,189,472,1,0.18,Harga cukup mahal dibanding kompetitor.
+CUST_0014,37,Female,Instagram Ads,469,416,0,0.9,Harga sepadan dengan kualitas yang didapat.
+CUST_0015,32,Female,Google Ads,374,381,0,0.13,"Kualitas lumayan, sesuai dengan harga."
+CUST_0016,54,Male,Instagram Ads,132,304,0,0.8,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0017,50,Female,Facebook Ads,125,378,0,0.43,"Produk sangat bagus, saya puas sekali!"
+CUST_0018,34,Male,Instagram Ads,908,436,1,0.84,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0019,22,Male,Facebook Ads,322,489,1,0.74,"Kualitas lumayan, sesuai dengan harga."
+CUST_0020,21,Male,Email,220,144,1,0.82,Produk ini melebihi ekspektasi saya.
+CUST_0021,20,Male,Instagram Ads,141,22,1,0.47,Produk ini melebihi ekspektasi saya.
+CUST_0022,38,Female,Instagram Ads,89,121,1,0.69,Harga cukup mahal dibanding kompetitor.
+CUST_0023,57,Female,Facebook Ads,327,305,0,0.34,Produk ini melebihi ekspektasi saya.
+CUST_0024,20,Female,Facebook Ads,753,55,1,0.09,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0025,38,Male,Facebook Ads,443,9,1,0.26,Harga sepadan dengan kualitas yang didapat.
+CUST_0026,25,Male,Google Ads,410,419,0,0.05,Layanan purna jual kurang responsif.
+CUST_0027,59,Male,Email,695,198,1,0.38,"Kualitas lumayan, sesuai dengan harga."
+CUST_0028,53,Female,Instagram Ads,66,305,0,0.49,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0029,46,Female,Facebook Ads,381,63,0,0.07,Produk ini melebihi ekspektasi saya.
+CUST_0030,56,Female,Instagram Ads,496,205,0,0.06,Produk ini melebihi ekspektasi saya.
+CUST_0031,51,Male,Facebook Ads,759,390,0,0.67,Harga sepadan dengan kualitas yang didapat.
+CUST_0032,39,Male,Email,540,342,0,0.14,Produk ini melebihi ekspektasi saya.
+CUST_0033,48,Male,Google Ads,519,188,0,0.12,"Tidak puas, barang rusak saat diterima."
+CUST_0034,45,Male,Instagram Ads,995,295,0,0.5,Produk ini melebihi ekspektasi saya.
+CUST_0035,52,Female,Google Ads,129,432,0,0.7,"Tidak puas, barang rusak saat diterima."
+CUST_0036,51,Male,Instagram Ads,245,157,0,0.93,"Kualitas lumayan, sesuai dengan harga."
+CUST_0037,30,Female,Facebook Ads,970,276,0,0.32,"Kualitas lumayan, sesuai dengan harga."
+CUST_0038,58,Female,Facebook Ads,82,318,1,0.16,"Kualitas lumayan, sesuai dengan harga."
+CUST_0039,21,Male,Email,810,301,1,0.11,"Kualitas lumayan, sesuai dengan harga."
+CUST_0040,23,Female,Facebook Ads,50,304,1,0.24,"Tidak puas, barang rusak saat diterima."
+CUST_0041,18,Male,Google Ads,640,114,0,0.14,Produk ini melebihi ekspektasi saya.
+CUST_0042,29,Male,Facebook Ads,177,152,0,0.05,"Produk sangat bagus, saya puas sekali!"
+CUST_0043,52,Female,Email,194,63,0,0.31,"Produk sangat bagus, saya puas sekali!"
+CUST_0044,28,Male,Facebook Ads,476,200,1,0.2,"Produk sangat bagus, saya puas sekali!"
+CUST_0045,40,Male,Facebook Ads,491,377,1,0.07,"Kualitas lumayan, sesuai dengan harga."
+CUST_0046,31,Male,Google Ads,196,292,0,0.37,Produk ini melebihi ekspektasi saya.
+CUST_0047,36,Female,Google Ads,615,248,0,0.79,Harga cukup mahal dibanding kompetitor.
+CUST_0048,54,Male,Instagram Ads,419,344,1,0.32,Layanan purna jual kurang responsif.
+CUST_0049,33,Male,Email,388,452,1,0.69,"Tidak puas, barang rusak saat diterima."
+CUST_0050,45,Male,Instagram Ads,645,299,0,0.71,"Produk sangat bagus, saya puas sekali!"
+CUST_0051,48,Male,Facebook Ads,818,403,0,0.07,Produk ini melebihi ekspektasi saya.
+CUST_0052,24,Male,Facebook Ads,264,406,0,0.92,"Kualitas lumayan, sesuai dengan harga."
+CUST_0053,44,Female,Facebook Ads,705,203,0,0.18,"Produk sangat bagus, saya puas sekali!"
+CUST_0054,34,Female,Facebook Ads,713,455,0,0.7,Layanan purna jual kurang responsif.
+CUST_0055,24,Male,Facebook Ads,773,204,0,0.39,"Produk sangat bagus, saya puas sekali!"
+CUST_0056,32,Male,Google Ads,241,289,1,0.83,Produk ini melebihi ekspektasi saya.
+CUST_0057,57,Female,Google Ads,747,460,0,0.95,Harga sepadan dengan kualitas yang didapat.
+CUST_0058,29,Female,Facebook Ads,713,133,0,0.22,"Tidak puas, barang rusak saat diterima."
+CUST_0059,25,Female,Email,150,367,1,0.79,"Tidak puas, barang rusak saat diterima."
+CUST_0060,19,Female,Email,218,122,0,0.5,"Kualitas lumayan, sesuai dengan harga."
+CUST_0061,55,Female,Instagram Ads,210,217,0,0.92,"Produk sangat bagus, saya puas sekali!"
+CUST_0062,43,Female,Google Ads,273,235,0,0.64,Harga cukup mahal dibanding kompetitor.
+CUST_0063,38,Male,Google Ads,491,49,1,0.58,"Kualitas lumayan, sesuai dengan harga."
+CUST_0064,30,Male,Facebook Ads,942,70,0,0.26,Produk ini melebihi ekspektasi saya.
+CUST_0065,36,Female,Google Ads,745,294,1,0.7,Harga cukup mahal dibanding kompetitor.
+CUST_0066,35,Male,Instagram Ads,912,409,1,0.31,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0067,19,Female,Email,832,180,1,0.81,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0068,59,Female,Email,882,165,1,0.93,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0069,45,Male,Email,930,380,0,0.06,Layanan purna jual kurang responsif.
+CUST_0070,40,Female,Instagram Ads,445,107,1,0.91,"Produk sangat bagus, saya puas sekali!"
+CUST_0071,21,Male,Email,212,445,1,0.37,"Produk sangat bagus, saya puas sekali!"
+CUST_0072,21,Female,Instagram Ads,598,44,0,0.49,"Kualitas lumayan, sesuai dengan harga."
+CUST_0073,29,Male,Google Ads,289,203,1,0.88,Harga cukup mahal dibanding kompetitor.
+CUST_0074,39,Male,Google Ads,591,19,1,0.75,Harga cukup mahal dibanding kompetitor.
+CUST_0075,43,Female,Facebook Ads,779,461,1,0.27,"Kualitas lumayan, sesuai dengan harga."
+CUST_0076,57,Female,Instagram Ads,60,162,1,0.14,Harga sepadan dengan kualitas yang didapat.
+CUST_0077,59,Female,Google Ads,849,304,0,0.81,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0078,52,Male,Instagram Ads,819,119,0,0.72,Produk ini melebihi ekspektasi saya.
+CUST_0079,21,Male,Google Ads,443,187,0,0.82,Harga cukup mahal dibanding kompetitor.
+CUST_0080,29,Female,Google Ads,173,256,0,0.4,"Produk sangat bagus, saya puas sekali!"
+CUST_0081,21,Female,Google Ads,223,21,0,0.49,Layanan purna jual kurang responsif.
+CUST_0082,48,Female,Email,583,490,0,0.47,Harga cukup mahal dibanding kompetitor.
+CUST_0083,24,Male,Google Ads,890,365,0,0.33,"Produk sangat bagus, saya puas sekali!"
+CUST_0084,27,Male,Google Ads,167,427,0,0.35,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0085,41,Female,Facebook Ads,104,308,0,0.7,Harga sepadan dengan kualitas yang didapat.
+CUST_0086,32,Female,Instagram Ads,492,345,0,0.73,Layanan purna jual kurang responsif.
+CUST_0087,56,Female,Facebook Ads,335,391,1,0.83,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0088,37,Female,Instagram Ads,742,425,0,0.81,"Produk sangat bagus, saya puas sekali!"
+CUST_0089,24,Female,Google Ads,906,277,0,0.73,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0090,30,Male,Google Ads,838,85,0,0.35,"Tidak puas, barang rusak saat diterima."
+CUST_0091,45,Female,Instagram Ads,899,207,0,0.69,"Kualitas lumayan, sesuai dengan harga."
+CUST_0092,56,Male,Google Ads,837,206,0,0.93,"Produk sangat bagus, saya puas sekali!"
+CUST_0093,35,Male,Email,281,197,0,0.87,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0094,28,Male,Email,513,206,0,0.92,"Kualitas lumayan, sesuai dengan harga."
+CUST_0095,53,Female,Google Ads,418,29,1,0.08,Produk ini melebihi ekspektasi saya.
+CUST_0096,53,Male,Instagram Ads,216,20,0,0.6,Harga sepadan dengan kualitas yang didapat.
+CUST_0097,19,Female,Google Ads,852,187,0,0.24,"Kualitas lumayan, sesuai dengan harga."
+CUST_0098,34,Female,Email,590,63,0,0.27,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0099,23,Female,Google Ads,415,106,1,0.81,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0100,58,Male,Email,617,250,1,0.73,"Kualitas lumayan, sesuai dengan harga."
+CUST_0101,40,Male,Facebook Ads,421,292,1,0.35,"Produk sangat bagus, saya puas sekali!"
+CUST_0102,33,Male,Email,998,195,0,0.52,Harga sepadan dengan kualitas yang didapat.
+CUST_0103,58,Female,Google Ads,225,56,0,0.22,"Produk sangat bagus, saya puas sekali!"
+CUST_0104,43,Male,Email,628,285,1,0.05,"Tidak puas, barang rusak saat diterima."
+CUST_0105,18,Female,Facebook Ads,337,401,0,0.86,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0106,53,Female,Instagram Ads,875,367,1,0.69,Layanan purna jual kurang responsif.
+CUST_0107,47,Male,Email,383,84,0,0.53,Harga cukup mahal dibanding kompetitor.
+CUST_0108,19,Female,Instagram Ads,267,374,0,0.1,Harga sepadan dengan kualitas yang didapat.
+CUST_0109,37,Male,Instagram Ads,374,365,0,0.43,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0110,22,Male,Instagram Ads,77,344,0,0.39,"Kualitas lumayan, sesuai dengan harga."
+CUST_0111,48,Male,Google Ads,889,32,1,0.2,Layanan purna jual kurang responsif.
+CUST_0112,25,Male,Email,670,192,0,0.19,Harga sepadan dengan kualitas yang didapat.
+CUST_0113,47,Male,Google Ads,801,12,1,0.21,Layanan purna jual kurang responsif.
+CUST_0114,56,Male,Email,530,419,0,0.59,"Tidak puas, barang rusak saat diterima."
+CUST_0115,19,Female,Google Ads,789,224,0,0.16,Produk ini melebihi ekspektasi saya.
+CUST_0116,30,Female,Instagram Ads,877,481,0,0.26,Harga cukup mahal dibanding kompetitor.
+CUST_0117,21,Male,Instagram Ads,830,110,0,0.9,Produk ini melebihi ekspektasi saya.
+CUST_0118,25,Female,Instagram Ads,517,322,0,0.25,Harga cukup mahal dibanding kompetitor.
+CUST_0119,56,Female,Facebook Ads,323,422,0,0.74,Layanan purna jual kurang responsif.
+CUST_0120,42,Female,Google Ads,996,105,1,0.59,"Tidak puas, barang rusak saat diterima."
+CUST_0121,24,Female,Instagram Ads,99,430,0,0.42,"Produk sangat bagus, saya puas sekali!"
+CUST_0122,31,Female,Facebook Ads,348,256,0,0.59,"Tidak puas, barang rusak saat diterima."
+CUST_0123,46,Male,Instagram Ads,786,472,0,0.17,"Kualitas lumayan, sesuai dengan harga."
+CUST_0124,38,Male,Google Ads,902,457,0,0.49,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0125,54,Female,Email,351,95,0,0.92,Layanan purna jual kurang responsif.
+CUST_0126,50,Male,Instagram Ads,73,105,0,0.43,Harga cukup mahal dibanding kompetitor.
+CUST_0127,58,Male,Facebook Ads,54,297,0,0.27,Harga cukup mahal dibanding kompetitor.
+CUST_0128,42,Female,Google Ads,975,35,0,0.88,Harga cukup mahal dibanding kompetitor.
+CUST_0129,31,Female,Email,348,165,0,0.6,Layanan purna jual kurang responsif.
+CUST_0130,26,Male,Google Ads,870,244,0,0.71,Harga sepadan dengan kualitas yang didapat.
+CUST_0131,32,Male,Email,969,100,0,0.54,Produk ini melebihi ekspektasi saya.
+CUST_0132,24,Female,Facebook Ads,664,341,0,0.06,Harga cukup mahal dibanding kompetitor.
+CUST_0133,19,Female,Email,447,431,0,0.73,"Produk sangat bagus, saya puas sekali!"
+CUST_0134,48,Female,Email,789,283,0,0.93,"Tidak puas, barang rusak saat diterima."
+CUST_0135,24,Female,Facebook Ads,469,433,0,0.69,"Produk sangat bagus, saya puas sekali!"
+CUST_0136,58,Female,Google Ads,203,45,0,0.78,"Tidak puas, barang rusak saat diterima."
+CUST_0137,28,Male,Email,808,233,0,0.82,"Kualitas lumayan, sesuai dengan harga."
+CUST_0138,30,Male,Instagram Ads,830,255,1,0.95,"Kualitas lumayan, sesuai dengan harga."
+CUST_0139,30,Male,Email,281,381,0,0.31,Produk ini melebihi ekspektasi saya.
+CUST_0140,43,Female,Google Ads,838,85,0,0.45,Harga sepadan dengan kualitas yang didapat.
+CUST_0141,25,Female,Email,395,116,0,0.54,"Produk sangat bagus, saya puas sekali!"
+CUST_0142,31,Female,Google Ads,403,22,0,0.19,Layanan purna jual kurang responsif.
+CUST_0143,19,Female,Facebook Ads,601,402,0,0.48,"Kualitas lumayan, sesuai dengan harga."
+CUST_0144,59,Female,Instagram Ads,255,404,0,0.3,"Tidak puas, barang rusak saat diterima."
+CUST_0145,32,Female,Google Ads,860,129,0,0.8,"Kualitas lumayan, sesuai dengan harga."
+CUST_0146,41,Female,Email,620,284,0,0.36,Layanan purna jual kurang responsif.
+CUST_0147,51,Male,Instagram Ads,610,491,1,0.12,"Kualitas lumayan, sesuai dengan harga."
+CUST_0148,21,Male,Facebook Ads,224,199,0,0.06,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0149,35,Male,Instagram Ads,803,401,0,0.82,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0150,42,Female,Instagram Ads,196,299,0,0.82,"Produk sangat bagus, saya puas sekali!"
+CUST_0151,41,Female,Google Ads,957,25,0,0.89,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0152,23,Female,Email,341,65,0,0.12,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0153,51,Female,Google Ads,427,407,0,0.41,Produk ini melebihi ekspektasi saya.
+CUST_0154,55,Male,Email,911,212,0,0.44,Harga sepadan dengan kualitas yang didapat.
+CUST_0155,20,Male,Facebook Ads,925,288,1,0.82,Layanan purna jual kurang responsif.
+CUST_0156,36,Male,Facebook Ads,82,73,0,0.29,"Kualitas lumayan, sesuai dengan harga."
+CUST_0157,53,Female,Google Ads,669,396,0,0.32,"Produk sangat bagus, saya puas sekali!"
+CUST_0158,36,Female,Google Ads,432,403,0,0.71,Harga cukup mahal dibanding kompetitor.
+CUST_0159,45,Male,Facebook Ads,392,205,0,0.21,"Tidak puas, barang rusak saat diterima."
+CUST_0160,27,Female,Instagram Ads,879,406,0,0.62,Harga cukup mahal dibanding kompetitor.
+CUST_0161,35,Female,Facebook Ads,986,24,0,0.72,Harga sepadan dengan kualitas yang didapat.
+CUST_0162,21,Male,Email,510,232,0,0.21,Harga sepadan dengan kualitas yang didapat.
+CUST_0163,29,Male,Facebook Ads,269,177,0,0.25,Produk ini melebihi ekspektasi saya.
+CUST_0164,44,Female,Instagram Ads,269,63,0,0.68,Layanan purna jual kurang responsif.
+CUST_0165,46,Female,Email,836,240,0,0.77,Harga sepadan dengan kualitas yang didapat.
+CUST_0166,29,Female,Google Ads,150,158,0,0.91,"Produk sangat bagus, saya puas sekali!"
+CUST_0167,28,Female,Google Ads,592,454,0,0.33,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0168,21,Female,Google Ads,611,426,0,0.54,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0169,41,Male,Instagram Ads,731,394,0,0.18,"Tidak puas, barang rusak saat diterima."
+CUST_0170,43,Male,Instagram Ads,920,7,0,0.44,Produk ini melebihi ekspektasi saya.
+CUST_0171,45,Female,Instagram Ads,66,409,0,0.29,Harga cukup mahal dibanding kompetitor.
+CUST_0172,21,Male,Google Ads,781,475,1,0.36,Produk ini melebihi ekspektasi saya.
+CUST_0173,53,Male,Facebook Ads,757,94,0,0.77,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0174,32,Male,Instagram Ads,823,309,1,0.77,"Produk sangat bagus, saya puas sekali!"
+CUST_0175,39,Female,Instagram Ads,365,282,1,0.68,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0176,41,Female,Facebook Ads,836,88,0,0.16,Harga cukup mahal dibanding kompetitor.
+CUST_0177,41,Female,Email,747,433,0,0.31,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0178,54,Male,Email,264,290,0,0.9,"Produk sangat bagus, saya puas sekali!"
+CUST_0179,22,Female,Email,601,420,0,0.46,"Tidak puas, barang rusak saat diterima."
+CUST_0180,23,Female,Instagram Ads,429,372,1,0.61,"Produk sangat bagus, saya puas sekali!"
+CUST_0181,27,Male,Email,862,262,0,0.07,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0182,20,Male,Instagram Ads,91,436,0,0.52,"Tidak puas, barang rusak saat diterima."
+CUST_0183,55,Male,Google Ads,887,364,0,0.67,"Kualitas lumayan, sesuai dengan harga."
+CUST_0184,51,Male,Facebook Ads,201,299,1,0.1,Layanan purna jual kurang responsif.
+CUST_0185,23,Male,Instagram Ads,711,362,0,0.15,"Produk sangat bagus, saya puas sekali!"
+CUST_0186,27,Male,Email,102,290,0,0.38,"Produk sangat bagus, saya puas sekali!"
+CUST_0187,33,Female,Google Ads,774,164,0,0.9,Harga cukup mahal dibanding kompetitor.
+CUST_0188,46,Male,Google Ads,383,287,1,0.27,"Kualitas lumayan, sesuai dengan harga."
+CUST_0189,20,Female,Facebook Ads,201,16,0,0.07,Harga cukup mahal dibanding kompetitor.
+CUST_0190,28,Female,Google Ads,970,434,0,0.78,Harga sepadan dengan kualitas yang didapat.
+CUST_0191,54,Female,Facebook Ads,194,475,0,0.81,Harga cukup mahal dibanding kompetitor.
+CUST_0192,21,Female,Facebook Ads,172,339,0,0.53,Harga cukup mahal dibanding kompetitor.
+CUST_0193,21,Male,Google Ads,164,192,0,0.85,Harga sepadan dengan kualitas yang didapat.
+CUST_0194,41,Female,Email,927,103,0,0.21,"Kualitas lumayan, sesuai dengan harga."
+CUST_0195,45,Female,Google Ads,980,493,1,0.3,Produk ini melebihi ekspektasi saya.
+CUST_0196,52,Male,Google Ads,258,310,0,0.07,Harga cukup mahal dibanding kompetitor.
+CUST_0197,55,Female,Instagram Ads,617,239,1,0.58,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0198,41,Male,Email,333,455,0,0.85,"Produk sangat bagus, saya puas sekali!"
+CUST_0199,39,Male,Email,755,339,0,0.6,Harga sepadan dengan kualitas yang didapat.
+CUST_0200,43,Female,Google Ads,595,73,0,0.12,Layanan purna jual kurang responsif.
+CUST_0201,35,Male,Google Ads,114,96,1,0.67,"Tidak puas, barang rusak saat diterima."
+CUST_0202,20,Male,Email,672,428,0,0.66,Layanan purna jual kurang responsif.
+CUST_0203,28,Male,Instagram Ads,945,142,1,0.2,"Kualitas lumayan, sesuai dengan harga."
+CUST_0204,26,Male,Facebook Ads,692,178,0,0.8,"Kualitas lumayan, sesuai dengan harga."
+CUST_0205,50,Male,Facebook Ads,492,474,1,0.87,Harga sepadan dengan kualitas yang didapat.
+CUST_0206,43,Female,Instagram Ads,873,391,1,0.4,Layanan purna jual kurang responsif.
+CUST_0207,53,Female,Instagram Ads,71,182,0,0.33,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0208,21,Male,Instagram Ads,475,299,0,0.57,"Produk sangat bagus, saya puas sekali!"
+CUST_0209,19,Female,Google Ads,437,234,1,0.93,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0210,25,Male,Instagram Ads,512,104,0,0.7,Layanan purna jual kurang responsif.
+CUST_0211,24,Female,Google Ads,149,432,1,0.76,"Tidak puas, barang rusak saat diterima."
+CUST_0212,53,Female,Facebook Ads,792,326,0,0.74,Layanan purna jual kurang responsif.
+CUST_0213,51,Female,Google Ads,679,186,1,0.91,"Produk sangat bagus, saya puas sekali!"
+CUST_0214,57,Female,Facebook Ads,829,445,0,0.78,Harga sepadan dengan kualitas yang didapat.
+CUST_0215,36,Female,Email,342,221,0,0.29,Harga sepadan dengan kualitas yang didapat.
+CUST_0216,46,Male,Email,801,170,0,0.26,"Produk sangat bagus, saya puas sekali!"
+CUST_0217,56,Male,Email,602,162,0,0.27,"Tidak puas, barang rusak saat diterima."
+CUST_0218,23,Female,Google Ads,107,330,0,0.24,"Kualitas lumayan, sesuai dengan harga."
+CUST_0219,27,Male,Email,112,211,0,0.24,"Tidak puas, barang rusak saat diterima."
+CUST_0220,58,Male,Facebook Ads,376,153,1,0.89,"Kualitas lumayan, sesuai dengan harga."
+CUST_0221,59,Female,Google Ads,528,62,0,0.91,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0222,22,Male,Instagram Ads,950,88,1,0.13,Layanan purna jual kurang responsif.
+CUST_0223,41,Male,Google Ads,140,401,0,0.11,Produk ini melebihi ekspektasi saya.
+CUST_0224,58,Female,Instagram Ads,394,79,0,0.82,"Tidak puas, barang rusak saat diterima."
+CUST_0225,39,Female,Email,578,72,1,0.56,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0226,43,Female,Facebook Ads,973,185,0,0.24,"Kualitas lumayan, sesuai dengan harga."
+CUST_0227,54,Male,Instagram Ads,936,422,1,0.47,Harga cukup mahal dibanding kompetitor.
+CUST_0228,46,Male,Facebook Ads,972,466,0,0.12,"Produk sangat bagus, saya puas sekali!"
+CUST_0229,53,Female,Google Ads,486,191,0,0.93,Layanan purna jual kurang responsif.
+CUST_0230,37,Male,Facebook Ads,843,318,0,0.18,Produk ini melebihi ekspektasi saya.
+CUST_0231,35,Female,Instagram Ads,738,170,0,0.78,Layanan purna jual kurang responsif.
+CUST_0232,57,Male,Instagram Ads,142,126,1,0.91,Harga cukup mahal dibanding kompetitor.
+CUST_0233,58,Male,Facebook Ads,365,400,0,0.69,Produk ini melebihi ekspektasi saya.
+CUST_0234,32,Male,Instagram Ads,588,210,1,0.13,"Tidak puas, barang rusak saat diterima."
+CUST_0235,32,Female,Google Ads,642,60,1,0.58,Harga sepadan dengan kualitas yang didapat.
+CUST_0236,41,Female,Facebook Ads,686,260,0,0.17,Layanan purna jual kurang responsif.
+CUST_0237,46,Female,Google Ads,87,402,1,0.83,Produk ini melebihi ekspektasi saya.
+CUST_0238,34,Female,Email,385,349,1,0.66,Layanan purna jual kurang responsif.
+CUST_0239,42,Male,Email,954,279,0,0.9,Produk ini melebihi ekspektasi saya.
+CUST_0240,33,Female,Google Ads,849,128,0,0.18,Harga sepadan dengan kualitas yang didapat.
+CUST_0241,34,Male,Google Ads,818,125,1,0.46,Harga cukup mahal dibanding kompetitor.
+CUST_0242,38,Female,Google Ads,570,86,0,0.54,"Kualitas lumayan, sesuai dengan harga."
+CUST_0243,44,Male,Email,355,251,0,0.15,"Produk sangat bagus, saya puas sekali!"
+CUST_0244,22,Male,Instagram Ads,504,245,0,0.66,"Kualitas lumayan, sesuai dengan harga."
+CUST_0245,39,Male,Email,797,336,0,0.56,Harga cukup mahal dibanding kompetitor.
+CUST_0246,50,Female,Instagram Ads,982,388,1,0.36,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0247,57,Male,Email,793,71,0,0.42,Produk ini melebihi ekspektasi saya.
+CUST_0248,19,Female,Google Ads,804,233,0,0.77,Produk ini melebihi ekspektasi saya.
+CUST_0249,52,Female,Instagram Ads,926,442,0,0.37,Produk ini melebihi ekspektasi saya.
+CUST_0250,36,Female,Google Ads,557,333,0,0.93,"Produk sangat bagus, saya puas sekali!"
+CUST_0251,57,Male,Instagram Ads,560,97,0,0.88,"Tidak puas, barang rusak saat diterima."
+CUST_0252,44,Male,Email,183,32,0,0.12,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0253,57,Female,Email,214,249,0,0.82,Layanan purna jual kurang responsif.
+CUST_0254,53,Male,Email,175,218,0,0.66,Produk ini melebihi ekspektasi saya.
+CUST_0255,56,Female,Google Ads,856,389,1,0.1,Produk ini melebihi ekspektasi saya.
+CUST_0256,19,Male,Email,693,400,0,0.91,"Produk sangat bagus, saya puas sekali!"
+CUST_0257,58,Female,Instagram Ads,994,72,0,0.8,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0258,35,Female,Google Ads,470,476,0,0.8,"Tidak puas, barang rusak saat diterima."
+CUST_0259,40,Female,Google Ads,251,451,0,0.87,Produk ini melebihi ekspektasi saya.
+CUST_0260,43,Female,Google Ads,955,449,0,0.88,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0261,28,Male,Google Ads,162,391,0,0.25,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0262,18,Female,Email,916,394,0,0.89,Harga sepadan dengan kualitas yang didapat.
+CUST_0263,53,Male,Email,569,133,0,0.09,Layanan purna jual kurang responsif.
+CUST_0264,37,Male,Instagram Ads,584,213,0,0.84,Produk ini melebihi ekspektasi saya.
+CUST_0265,48,Male,Email,162,135,0,0.46,"Produk sangat bagus, saya puas sekali!"
+CUST_0266,25,Female,Facebook Ads,293,183,0,0.8,"Kualitas lumayan, sesuai dengan harga."
+CUST_0267,57,Male,Email,888,7,0,0.3,Layanan purna jual kurang responsif.
+CUST_0268,41,Female,Email,422,380,1,0.73,Produk ini melebihi ekspektasi saya.
+CUST_0269,37,Male,Email,240,141,1,0.77,Produk ini melebihi ekspektasi saya.
+CUST_0270,32,Female,Instagram Ads,627,150,1,0.12,"Produk sangat bagus, saya puas sekali!"
+CUST_0271,47,Female,Instagram Ads,343,101,0,0.87,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0272,37,Male,Facebook Ads,709,495,0,0.79,Harga cukup mahal dibanding kompetitor.
+CUST_0273,55,Male,Email,976,286,0,0.59,Harga cukup mahal dibanding kompetitor.
+CUST_0274,19,Female,Email,719,154,1,0.69,Layanan purna jual kurang responsif.
+CUST_0275,23,Male,Google Ads,225,253,1,0.36,"Kualitas lumayan, sesuai dengan harga."
+CUST_0276,59,Male,Facebook Ads,778,453,0,0.47,Produk ini melebihi ekspektasi saya.
+CUST_0277,35,Female,Instagram Ads,59,343,0,0.18,"Kualitas lumayan, sesuai dengan harga."
+CUST_0278,53,Female,Email,749,330,0,0.5,"Produk sangat bagus, saya puas sekali!"
+CUST_0279,31,Female,Email,130,414,1,0.75,Harga cukup mahal dibanding kompetitor.
+CUST_0280,43,Female,Instagram Ads,954,473,0,0.55,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0281,51,Female,Email,924,322,0,0.17,"Kualitas lumayan, sesuai dengan harga."
+CUST_0282,47,Male,Email,875,329,0,0.8,"Kualitas lumayan, sesuai dengan harga."
+CUST_0283,24,Male,Google Ads,977,214,1,0.71,Harga cukup mahal dibanding kompetitor.
+CUST_0284,47,Female,Email,137,132,1,0.08,"Sangat direkomendasikan, pengiriman cepat."
+CUST_0285,35,Female,Facebook Ads,449,497,0,0.77,Produk ini melebihi ekspektasi saya.
+CUST_0286,39,Female,Email,159,19,0,0.83,"Produk sangat bagus, saya puas sekali!"
+CUST_0287,34,Male,Facebook Ads,317,408,0,0.51,Harga sepadan dengan kualitas yang didapat.
+CUST_0288,48,Female,Instagram Ads,468,308,0,0.39,"Produk sangat bagus, saya puas sekali!"
+CUST_0289,34,Male,Facebook Ads,294,416,0,0.13,"Tidak puas, barang rusak saat diterima."
+CUST_0290,48,Female,Email,412,189,0,0.8,"Produk sangat bagus, saya puas sekali!"
+CUST_0291,30,Female,Instagram Ads,992,169,0,0.05,"Produk sangat bagus, saya puas sekali!"
+CUST_0292,44,Male,Email,543,311,1,0.36,Harga sepadan dengan kualitas yang didapat.
+CUST_0293,37,Male,Google Ads,706,77,0,0.34,Produk ini melebihi ekspektasi saya.
+CUST_0294,34,Male,Facebook Ads,846,222,0,0.87,Produk ini melebihi ekspektasi saya.
+CUST_0295,46,Male,Google Ads,618,24,1,0.45,Harga cukup mahal dibanding kompetitor.
+CUST_0296,56,Male,Google Ads,341,239,0,0.85,"Tidak puas, barang rusak saat diterima."
+CUST_0297,52,Female,Google Ads,532,139,1,0.13,"Produk sangat bagus, saya puas sekali!"
+CUST_0298,25,Male,Google Ads,245,183,1,0.81,Produk ini melebihi ekspektasi saya.
+CUST_0299,55,Male,Email,56,62,1,0.6,Harga cukup mahal dibanding kompetitor.
+CUST_0300,32,Female,Instagram Ads,708,13,1,0.53,Produk ini melebihi ekspektasi saya.
