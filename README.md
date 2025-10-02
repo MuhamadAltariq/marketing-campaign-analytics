@@ -10,8 +10,9 @@ segmentasi pelanggan untuk strategi pemasaran yang lebih baik.
 
 ## 📂 Raw Dataset Link
 
-Dataset yang digunakan berasal dari data dummy mengenai campaign
+Dataset yang digunakan berasal dari sumber terbuka mengenai campaign
 marketing.\
+👉 [Dataset Link](https://drive.google.com/file/d/1_C1ARtfmxXA3uIr_SatqDSFoDk8wG6F1/view?usp=sharing)
 
 ## 🔍 Insight & Findings
 
